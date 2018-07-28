@@ -1,0 +1,27 @@
+{
+  "nodes": [
+    {"id": "Root", "group":0},
+    {"id": "Myriel", "group": 1},
+    {"id": "Napoleon", "group": 1},
+    {"id": "Mlle.Baptistine", "group": 1},
+    {"id": "Mme.Magloire", "group": 1},
+    {"id": "CountessdeLo", "group": 1},
+    {"id": "Geborand", "group": 2},
+    {"id": "Champtercier", "group": 2},
+    {"id": "Cravatte", "group": 2},
+    {"id": "Count", "group": 2},
+    {"id": "OldMan", "group": 2}
+  ],
+  "links": [
+    {"source": "Root", "target": "Myriel", "value": 1},
+    {"source": "Root", "target": "Napoleon", "value": 1},
+    {"source": "Root", "target": "Mlle.Baptistine", "value": 1},
+    {"source": "Root", "target": "Mme.Magloire", "value": 1},
+    {"source": "Root", "target": "CountessdeLo", "value": 1},
+    {"source": "Root", "target": "Geborand", "value": 2},
+    {"source": "Root", "target": "Champtercier", "value": 2},
+    {"source": "Root", "target": "Cravatte", "value": 2},
+    {"source": "Root", "target": "Count", "value": 2},
+    {"source": "Root", "target": "OldMan", "value": 2}
+  ]
+}
